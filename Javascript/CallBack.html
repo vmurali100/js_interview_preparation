@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      var response = [];
+      function getAllUsersFromServer(displayAllUsers) {
+        fetch("https://jsonplaceholder.typicode.com/users")
+          .then((response) => {
+            return response.json();
+          })
+          .then((data) => {
+            // console.log("Data Inside Fetch Method : ",data)
+            response = data;
+            displayAllUsers();
+          });
+      }
+
+      function displayAllUsers() {
+        console.log("AllUsers Are : ",response)
+      }
+
+      getAllUsersFromServer(displayAllUsers);
+    //   displayAllUsers();
+    </script>
+  </body>
+</html>
