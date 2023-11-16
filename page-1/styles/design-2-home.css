@@ -2195,7 +2195,7 @@ body {
 .main-wrapper
   .footer-area
   .footer-group3
-  .airport-transfers-road-shows-event-transfers-intercity-transfers-4pq {
+  .airport-transfers {
   margin-bottom: 2.6rem;
   max-width: 10.7rem;
   font-size: 1.2rem;
@@ -2275,7 +2275,7 @@ body {
 .main-wrapper
   .footer-area
   .footer-group5
-  .terms-conditions-privacy-policy-gdpr-policy-rXj {
+  .terms {
   margin-bottom: 2.1rem;
   max-width: 12.1rem;
   font-size: 1.2rem;
@@ -2285,7 +2285,7 @@ body {
   font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .footer-group5 .contact-us-AoK {
+.main-wrapper .footer-area .footer-group5 .contact-us {
   margin-bottom: 1rem;
   font-size: 1.4rem;
   font-weight: 500;
@@ -2296,7 +2296,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .footer-group5 .chat-with-us-W6V {
+.main-wrapper .footer-area .footer-group5 .chat-with-us {
   font-size: 1.4rem;
   font-weight: 500;
   line-height: 1.5714285714;
