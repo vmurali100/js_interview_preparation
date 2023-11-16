@@ -1,0 +1,2394 @@
+html {
+  font-size: 62.5%;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+ul,
+li {
+  list-style: none;
+}
+input {
+  border: none;
+}
+body {
+  width: 144rem;
+  margin: 0 auto;
+}
+.design-2-home-yTo {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #131313;
+}
+.design-2-home-yTo .frame-1000003472-kss {
+  margin-bottom: 12rem;
+  box-sizing: border-box;
+  padding: 4.5rem 12rem 6.8rem 12rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 125.345%;
+  background-position: 0 -17.7326rem;
+  background-image: url("../assets/rectangle-8046-bg.png");
+  background-color: rgba(0, 0, 0, 0.6000000238);
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003472-kss .auto-group-gajm-1BX {
+  margin-bottom: 4.4174rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003472-kss .auto-group-gajm-1BX .y-cars-logo-KT7 {
+  margin-right: 47.7008rem;
+  width: 9.9992rem;
+  height: 4.9826rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003472-kss .auto-group-gajm-1BX .home-S1w {
+  margin: 0rem 4.6rem 0.883rem 0rem;
+  text-align: right;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4900000436;
+  color: #fca311;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003472-kss .auto-group-gajm-1BX .about-us-hCm {
+  margin: 0rem 5rem 0.883rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.4900000436;
+  color: #a0a0a0;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003472-kss .auto-group-gajm-1BX .services-A6M {
+  margin: 0rem 4.8rem 0.883rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.4900000436;
+  color: #a0a0a0;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-gajm-1BX
+  .icars-choices-KtM {
+  margin: 0rem 3.9rem 0.883rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.4900000436;
+  color: #a0a0a0;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003472-kss .auto-group-gajm-1BX .gallery-F1K {
+  margin: 0rem 4.7rem 0.883rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.4900000436;
+  color: #a0a0a0;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003472-kss .auto-group-gajm-1BX .contact-us-yT7 {
+  margin-bottom: 0.8826rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.4900000436;
+  color: #a0a0a0;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003472-kss .auto-group-zezx-ta5 {
+  margin-left: 0.4rem;
+  width: calc(100% - 0.4rem);
+  height: 56.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .auto-group-8n9w-1ub {
+  margin-right: 0.6rem;
+  box-sizing: border-box;
+  padding: 3.2rem 3.1rem 27.7rem 3.1rem;
+  width: 75rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../assets/subtract.png");
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .auto-group-8n9w-1ub
+  .your-travel-companion-W5f {
+  margin-bottom: 1.9rem;
+  max-width: 51.4rem;
+  font-size: 8rem;
+  font-weight: 400;
+  line-height: 1.0050000191;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .auto-group-8n9w-1ub
+  .we-take-pride-in-the-high-level-of-chauffeur-service-provided-by-all-of-our-chauffeurs-and-the-care-and-respect-that-they-take-in-servicing-the-needs-of-our-customers-1o7 {
+  max-width: 48rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.4900000095;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR {
+  margin: 4.9rem 0rem 4.8rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 0rem 1.6rem 1.6rem;
+  width: 44rem;
+  height: calc(100% - 9.7rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 1.2rem 2.8rem #64666b;
+  background-color: #ffffff;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .div-Hu3 {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 5.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .div-Hu3
+  .one-way-qQm {
+  margin: 0rem 12.5rem 0.2rem 0rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.4;
+  letter-spacing: 0.015rem;
+  font-style: italic;
+  color: #181a1f;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .div-Hu3
+  .buttonhourlytab-tab-F77 {
+  box-sizing: border-box;
+  padding: 1.15rem 1.6rem 1.25rem 1.6rem;
+  width: 22rem;
+  height: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.4;
+  letter-spacing: 0.015rem;
+  font-style: italic;
+  color: #181a1f;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  background-color: #f0f2f7;
+  border-radius: 0 0.4rem 0 0;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF {
+  margin-right: 1.6rem;
+  width: 40.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .from-transfer-wu3 {
+  margin-bottom: 0.8rem;
+  box-sizing: border-box;
+  padding: 0.75rem 17.55rem 1.15rem 1.45rem;
+  width: 100%;
+  height: 6.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #f0f2f7;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .from-transfer-wu3
+  .icon-pin-byb {
+  margin: 0.644rem 1.45rem 0rem 0rem;
+  width: 1.5rem;
+  height: 1.8107rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .from-transfer-wu3
+  .auto-group-hfof-vky {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .from-transfer-wu3
+  .auto-group-hfof-vky
+  .from-sw7 {
+  margin-bottom: 0.4rem;
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.5384615385;
+  letter-spacing: 0.01rem;
+  color: #64666b;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .from-transfer-wu3
+  .auto-group-hfof-vky
+  .divplaceholder-CiV {
+  margin-left: 0.05rem;
+  width: 18.8rem;
+  height: 2.2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #64666b;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .to-transfer-ro3 {
+  margin-bottom: 0.8rem;
+  box-sizing: border-box;
+  padding: 0.75rem 17.55rem 1.15rem 1.45rem;
+  width: 100%;
+  height: 6.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #f0f2f7;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .to-transfer-ro3
+  .icon-pin-ayw {
+  margin: 0.644rem 1.45rem 0rem 0rem;
+  width: 1.5rem;
+  height: 1.8107rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .to-transfer-ro3
+  .auto-group-z9ir-TXw {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .to-transfer-ro3
+  .auto-group-z9ir-TXw
+  .to-cfj {
+  margin-bottom: 0.4rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.4285714286;
+  letter-spacing: 0.01rem;
+  color: #64666b;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .to-transfer-ro3
+  .auto-group-z9ir-TXw
+  .divplaceholder-8PB {
+  margin-left: 0.05rem;
+  width: 18.8rem;
+  height: 2.2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3625;
+  color: #64666b;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .please-select-a-pickup-date-y8u {
+  margin-bottom: 0.8rem;
+  box-sizing: border-box;
+  padding: 0.7rem 1.87rem 1.05rem 1.367rem;
+  width: 100%;
+  height: 6.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #f0f2f7;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .please-select-a-pickup-date-y8u
+  .icon-calendar-UbT {
+  margin: 0.283rem 1.367rem 0rem 0rem;
+  width: 1.6667rem;
+  height: 1.6667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .please-select-a-pickup-date-y8u
+  .auto-group-vqbf-ADP {
+  margin-right: 20.1197rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .please-select-a-pickup-date-y8u
+  .auto-group-vqbf-ADP
+  .date-Hoo {
+  margin-bottom: 0.35rem;
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.5384615385;
+  letter-spacing: 0.01rem;
+  color: #64666b;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .please-select-a-pickup-date-y8u
+  .auto-group-vqbf-ADP
+  .div-bZb {
+  margin-left: 0.05rem;
+  width: 13.3rem;
+  height: 2.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #181a1f;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .please-select-a-pickup-date-y8u
+  .icon-angle-down-VQ5 {
+  margin-top: 2.4685rem;
+  width: 1.0607rem;
+  height: 0.6482rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .div-QG9 {
+  margin-bottom: 2.45rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .div-QG9
+  .div-Yt9 {
+  margin-bottom: 0.35rem;
+  width: 100%;
+  height: 6.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .div-QG9
+  .div-Yt9
+  .time-5dB {
+  width: 3.3rem;
+  height: 2rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 0.75rem;
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.5384615385;
+  letter-spacing: 0.01rem;
+  color: #64666b;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .div-QG9
+  .div-Yt9
+  .icon-time-nGh {
+  width: 1.6667rem;
+  height: 1.6667rem;
+  position: absolute;
+  left: 1.3667rem;
+  top: 3.4667rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .div-QG9
+  .div-Yt9
+  .div-iRF {
+  box-sizing: border-box;
+  padding: 2.1rem 27.534rem 2.25rem 4.95rem;
+  width: 40.8rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #f0f2f7;
+  border-radius: 0.4rem;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .div-QG9
+  .div-Yt9
+  .div-iRF
+  .div-bzq {
+  margin: 0.15rem 0.6rem 0rem 0rem;
+  width: 4.7rem;
+  height: 2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .div-QG9
+  .div-Yt9
+  .div-iRF
+  .item--fUu {
+  margin: 0rem 0.516rem 0.15rem 0rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0.015rem;
+  color: #64666b;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .div-QG9
+  .div-Yt9
+  .div-iRF
+  .div-AAm {
+  margin-top: 0.15rem;
+  width: 1.9rem;
+  height: 2rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .div-QG9
+  .chauffeur-will-wait-15-minutes-free-of-charge-PJR {
+  margin-right: 3.9rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6666666667;
+  letter-spacing: 0.015rem;
+  color: #64666b;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003472-kss
+  .auto-group-zezx-ta5
+  .divbookingwidget-bWR
+  .formtransferform-DTF
+  .button-tFB {
+  width: 100%;
+  height: 4.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #fbfbfd;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  background-color: #fca311;
+  border-radius: 0.4rem;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003472-kss .frame-1000003472-kss-bg {
+  width: 144rem;
+  height: 76.8rem;
+  position: relative;
+  background-image: url("REPLACE_IMAGE:b59dd3abebfab3a198e5b32d3d272da1ca31d230");
+}
+.design-2-home-yTo .auto-group-u1xo-Qsj {
+  margin-bottom: 12rem;
+  width: 100%;
+  height: 90.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .auto-group-u1xo-Qsj .hr-kwb {
+  width: 1.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 145rem;
+  top: 19.5rem;
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.5384615385;
+  letter-spacing: 0.015rem;
+  color: #6b6b6b;
+  font-family: Montserrat, "Source Sans Pro";
+  white-space: nowrap;
+}
+.design-2-home-yTo .auto-group-u1xo-Qsj .frame-1000003468-fHs {
+  width: 151.4rem;
+  height: 90.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-cyl1-bBX {
+  box-sizing: border-box;
+  padding: 0rem 31.1rem 5.6rem 36.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-cyl1-bBX
+  .select-a-car-that-you-really-need-uT7 {
+  margin: 0rem 30.1rem 4.3rem 0rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.0550000509;
+  text-transform: uppercase;
+  color: #fca311;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-cyl1-bBX
+  .arrow-5-Qem {
+  margin-left: 41.2rem;
+  width: 42.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks {
+  width: 100%;
+  height: 52.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-mazm-eZ7 {
+  margin: 3.8rem 11.4rem 3.9rem 0rem;
+  width: 39.7rem;
+  height: calc(100% - 7.7rem);
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-mazm-eZ7
+  .item-197-1-x41 {
+  width: 33.9rem;
+  height: 17.2rem;
+  position: relative;
+  left: 0;
+  top: 11.6rem;
+  background-size: 100% 147.727%;
+  background-position: -0rem -4.0394rem;
+  background-image: url("../assets/-5LV.png");
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-mazm-eZ7
+  .mercedes-maybach-dfw {
+  width: 15.8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 29.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #393d46;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-mazm-eZ7
+  .max-3-6ZX {
+  width: 3.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 8.2rem;
+  top: 33.2rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.015rem;
+  color: #6b6b6b;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-mazm-eZ7
+  .max-2-Q4R {
+  width: 3.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 14.6172rem;
+  top: 33.2rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.015rem;
+  color: #6b6b6b;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-mazm-eZ7
+  .vector-JvV {
+  width: 2.4rem;
+  height: 1.6934rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 32.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-mazm-eZ7
+  .vector-eUZ {
+  width: 1.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 32.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-mazm-eZ7
+  .item-651-CFB {
+  width: 7.3rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 22.8rem;
+  top: 2.8rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.0550000668;
+  color: #212832;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-mazm-eZ7
+  .hr-GVw {
+  width: 1.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 30.1rem;
+  top: 4.1rem;
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.5384615385;
+  letter-spacing: 0.015rem;
+  color: #6b6b6b;
+  font-family: Montserrat, "Source Sans Pro";
+  white-space: nowrap;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-mazm-eZ7
+  .rectangle-8089-aWd {
+  width: 18.1rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 37.1rem;
+  background-color: #fca311;
+  border-radius: 0.5rem;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-mazm-eZ7
+  .book-now-GeM {
+  width: 6.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 9.9rem;
+  top: 38.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Helvetica Now Display, "Source Sans Pro";
+  white-space: nowrap;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-mazm-eZ7
+  .pseudo-NSV {
+  opacity: 0.6;
+  width: 34.3rem;
+  height: 44.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.6000000238);
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-pyed-Vn1 {
+  margin-right: 11.8rem;
+  box-sizing: border-box;
+  padding: 3.8rem 3.3rem 2.5rem 5.9rem;
+  width: 52.2rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-pyed-Vn1
+  .auto-group-nnyw-onh {
+  margin: 0rem 0rem 5.5rem 33.8rem;
+  width: calc(100% - 33.8rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-pyed-Vn1
+  .auto-group-nnyw-onh
+  .item-651-v6d {
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.0550000668;
+  color: #212832;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-pyed-Vn1
+  .auto-group-nnyw-onh
+  .hr-4Cq {
+  margin-bottom: 0.1rem;
+  display: flex;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.5384615385;
+  letter-spacing: 0.015rem;
+  color: #6b6b6b;
+  font-family: Montserrat, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-pyed-Vn1
+  .mercedes-benz-s-class-car-1-aS5 {
+  margin-bottom: 1rem;
+  width: 43rem;
+  height: 24.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-pyed-Vn1
+  .mercedes-s-class-hmb {
+  margin: 0rem 2.7rem 0.3rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #393d46;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-pyed-Vn1
+  .auto-group-z6q9-prD {
+  margin: 0rem 17.283rem 1.9rem 13.1rem;
+  width: calc(100% - 30.3828rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-pyed-Vn1
+  .auto-group-z6q9-prD
+  .vector-M5T {
+  margin: 0rem 0.4rem 0.207rem 0rem;
+  width: 2.4rem;
+  height: 1.6934rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-pyed-Vn1
+  .auto-group-z6q9-prD
+  .max-3-GCR {
+  margin: 0.7rem 1rem 0rem 0rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.015rem;
+  color: #6b6b6b;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-pyed-Vn1
+  .auto-group-z6q9-prD
+  .vector-xL9 {
+  margin: 0rem 0.417rem 0.6rem 0rem;
+  width: 1.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-pyed-Vn1
+  .auto-group-z6q9-prD
+  .max-2-4PB {
+  margin-top: 0.7rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.015rem;
+  color: #6b6b6b;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .auto-group-pyed-Vn1
+  .auto-group-jcxy-Nuf {
+  margin: 0rem 13.8rem 0rem 11.1rem;
+  width: calc(100% - 24.9rem);
+  height: 4.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Helvetica Now Display, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fca311;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .group-671-cZ7 {
+  margin: 3.8rem 0rem 3.9rem 0rem;
+  width: 36.3rem;
+  height: calc(100% - 7.7rem);
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .group-671-cZ7
+  .rolls-royce-ghost-black-car-2-1-XRB {
+  width: 31.3rem;
+  height: 17.8rem;
+  position: absolute;
+  left: 5rem;
+  top: 12.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .group-671-cZ7
+  .rolls-royce-ghost-15T {
+  width: 14.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 30.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #393d46;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .group-671-cZ7
+  .max-3-qqB {
+  width: 3.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 18.3rem;
+  top: 34.3rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.015rem;
+  color: #6b6b6b;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .group-671-cZ7
+  .max-2-WAd {
+  width: 3.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 24.7172rem;
+  top: 34.3rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: 0.015rem;
+  color: #6b6b6b;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .group-671-cZ7
+  .vector-Zeh {
+  width: 2.4rem;
+  height: 1.6934rem;
+  position: absolute;
+  left: 15.5rem;
+  top: 34rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .group-671-cZ7
+  .vector-hku {
+  width: 1.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 22.7rem;
+  top: 33.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .group-671-cZ7
+  .item-651-1mb {
+  width: 7.3rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 28rem;
+  top: 1.3rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.0550000668;
+  color: #212832;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .group-671-cZ7
+  .rectangle-8089-JEu {
+  width: 18.1rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 38.4rem;
+  background-color: #fca311;
+  border-radius: 0.5rem;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .group-671-cZ7
+  .book-now-D6y {
+  width: 6.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 18.3rem;
+  top: 39.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Helvetica Now Display, "Source Sans Pro";
+  white-space: nowrap;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-khxm-8Ks
+  .group-671-cZ7
+  .pseudo-XNZ {
+  opacity: 0.6;
+  width: 34.3rem;
+  height: 44.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.6000000238);
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-4sdb-FJZ {
+  box-sizing: border-box;
+  padding: 5.5rem 59.1rem 0rem 34.3rem;
+  width: 100%;
+  row-gap: 5.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-4sdb-FJZ
+  .auto-group-nmgd-NPB {
+  margin-left: 28.2rem;
+  display: flex;
+  column-gap: 2.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-4sdb-FJZ
+  .auto-group-nmgd-NPB
+  .rectangle-8078-GDf {
+  width: 0.9rem;
+  height: 0.9rem;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-4sdb-FJZ
+  .auto-group-nmgd-NPB
+  .rectangle-8079-nxh {
+  width: 0.9rem;
+  height: 0.9rem;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-4sdb-FJZ
+  .auto-group-nmgd-NPB
+  .rectangle-8080-XfP {
+  width: 0.9rem;
+  height: 0.9rem;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-4sdb-FJZ
+  .auto-group-nmgd-NPB
+  .rectangle-8081-fmb {
+  width: 0.9rem;
+  height: 0.9rem;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-4sdb-FJZ
+  .auto-group-nmgd-NPB
+  .rectangle-8082-1qT {
+  width: 0.9rem;
+  height: 0.9rem;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-4sdb-FJZ
+  .auto-group-nmgd-NPB
+  .rectangle-8083-Z6H {
+  width: 0.9rem;
+  height: 0.9rem;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-4sdb-FJZ
+  .auto-group-nmgd-NPB
+  .rectangle-8084-J3s {
+  width: 0.9rem;
+  height: 0.9rem;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-4sdb-FJZ
+  .auto-group-nmgd-NPB
+  .rectangle-8085-caM {
+  width: 0.9rem;
+  height: 0.9rem;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-4sdb-FJZ
+  .auto-group-nmgd-NPB
+  .rectangle-8086-w6q {
+  width: 0.9rem;
+  height: 0.9rem;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-4sdb-FJZ
+  .auto-group-nmgd-NPB
+  .rectangle-8087-5D3 {
+  width: 0.9rem;
+  height: 0.9rem;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-4sdb-FJZ
+  .arrow-6-cTs {
+  margin-right: 15.1rem;
+  width: 42.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .auto-group-u1xo-Qsj
+  .frame-1000003468-fHs
+  .auto-group-4sdb-FJZ
+  .auto-group-8chf-AEV {
+  margin-left: 28.1rem;
+  width: 29.9rem;
+  height: 7.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #fbfbfd;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  border: solid 0.2rem #fca311;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003469-p49 {
+  margin-bottom: 12rem;
+  width: 100%;
+  height: 109.9rem;
+  position: relative;
+  background-color: #0c0c0c;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003469-p49 .auto-group-kdb7-bj7 {
+  width: 94.7rem;
+  height: 73.7rem;
+  position: absolute;
+  left: 24.6rem;
+  top: 10.1rem;
+  display: flex;
+  align-items: center;
+}
+.design-2-home-yTo
+  .frame-1000003469-p49
+  .auto-group-kdb7-bj7
+  .auto-group-uead-7xM {
+  width: 39.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003469-p49
+  .auto-group-kdb7-bj7
+  .auto-group-uead-7xM
+  .rectangle-8090-3LD {
+  width: 39.6rem;
+  height: 73.6rem;
+  position: relative;
+  left: 0;
+  top: 0.1rem;
+  background-size: 278.788% 100%;
+  background-position: -49.4rem -0rem;
+  background-image: url("../assets/rectangle-8090-tV7.png");
+}
+.design-2-home-yTo
+  .frame-1000003469-p49
+  .auto-group-kdb7-bj7
+  .auto-group-uead-7xM
+  .pseudo-hff {
+  opacity: 0.6;
+  width: 39.6rem;
+  height: 73.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.6000000238);
+}
+.design-2-home-yTo
+  .frame-1000003469-p49
+  .auto-group-kdb7-bj7
+  .auto-group-uead-7xM
+  .ellipse-1667-2hw {
+  width: 10rem;
+  height: 10rem;
+  position: absolute;
+  left: 14.8rem;
+  top: 31.9rem;
+  background-color: #ffffff;
+  border-radius: 5rem;
+}
+.design-2-home-yTo
+  .frame-1000003469-p49
+  .auto-group-kdb7-bj7
+  .auto-group-pzop-YgH {
+  margin: 7.5rem 0rem 7.1rem 0rem;
+  width: 55.1rem;
+  height: calc(100% - 14.6rem);
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../assets/subtract-577.png");
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003469-p49
+  .auto-group-kdb7-bj7
+  .auto-group-pzop-YgH
+  .your-travel-companion-3d3 {
+  width: 38.6rem;
+  height: 12.1rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 5rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.0049999873;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+}
+.design-2-home-yTo
+  .frame-1000003469-p49
+  .auto-group-kdb7-bj7
+  .auto-group-pzop-YgH
+  .we-take-pride-in-the-high-level-of-chauffeur-service-provided-by-all-of-our-chauffeurs-and-the-care-and-respect-that-they-take-in-servicing-the-needs-of-our-customers-iUH {
+  width: 41.9rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 19.3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.4900000095;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+}
+.design-2-home-yTo
+  .frame-1000003469-p49
+  .auto-group-kdb7-bj7
+  .auto-group-pzop-YgH
+  .learn-more-iMo {
+  width: 14.3rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 48.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.design-2-home-yTo
+  .frame-1000003469-p49
+  .auto-group-kdb7-bj7
+  .auto-group-pzop-YgH
+  .arrow-5-DZT {
+  width: 20.5rem;
+  height: 0;
+  position: absolute;
+  left: 4.5rem;
+  top: 53rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.design-2-home-yTo .frame-1000003469-p49 .auto-group-hosq-wkM {
+  width: 68.2rem;
+  height: 6.1rem;
+  position: absolute;
+  left: 30.4rem;
+  top: 89.2rem;
+  display: flex;
+  align-items: center;
+}
+.design-2-home-yTo .frame-1000003469-p49 .auto-group-hosq-wkM .cars-UEV {
+  margin-right: 11.8rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.0049999873;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003469-p49 .auto-group-hosq-wkM .item-1500-BPo {
+  margin-right: 18.2rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.0049999873;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003469-p49 .auto-group-hosq-wkM .item-5-iPj {
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.0049999873;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003469-p49 .auto-group-dkvy-4Ch {
+  width: 77.4rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 32rem;
+  top: 96.3rem;
+  display: flex;
+  align-items: flex-end;
+}
+.design-2-home-yTo .frame-1000003469-p49 .auto-group-dkvy-4Ch .learn-more-neV {
+  margin: 0rem 17.9rem 0.2rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003469-p49 .auto-group-dkvy-4Ch .learn-more-sfw {
+  margin-right: 16.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003469-p49 .auto-group-dkvy-4Ch .learn-more-CTK {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003471-tb3 {
+  margin: 0rem 19.5rem 15rem 27.6rem;
+  width: calc(100% - 47.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003471-tb3 .auto-group-bdop-CLq {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-bdop-CLq
+  .rectangle-8091-9ms {
+  margin-right: 1.3rem;
+  width: 18.2rem;
+  height: 17.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-bdop-CLq
+  .we-take-pride-in-the-high-level-of-chauffeur-service-provided-by-all-of-our-chauffeurs-and-the-care-and-respect-that-they-take-in-servicing-the-needs-of-our-customers-6BK {
+  margin: 0rem 5.8rem 1.1rem 0rem;
+  max-width: 41.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.4900000095;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-bdop-CLq
+  .auto-group-f8vm-8do {
+  margin-bottom: 1.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-bdop-CLq
+  .auto-group-f8vm-8do
+  .all-the-categories-gvD {
+  margin-bottom: 5.7rem;
+  max-width: 29.7rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.0049999873;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-bdop-CLq
+  .auto-group-f8vm-8do
+  .item-1-pWd {
+  margin-left: 9rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.0049999873;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003471-tb3 .auto-group-2vrt-YxR {
+  box-sizing: border-box;
+  padding-top: 0.2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003471-tb3 .auto-group-2vrt-YxR .line-32-Frq {
+  margin: 0rem 0rem 2.3rem 0.1rem;
+  width: 89.7rem;
+  height: 0.1rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-2vrt-YxR
+  .auto-group-stbw-PCM {
+  margin: 0rem 7.1rem 0.2rem 1.5rem;
+  width: calc(100% - 8.6rem);
+  height: 17.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-2vrt-YxR
+  .auto-group-stbw-PCM
+  .auto-group-czey-Jq7 {
+  box-sizing: border-box;
+  padding: 7.1rem 1.3rem 1.1rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-2vrt-YxR
+  .auto-group-stbw-PCM
+  .auto-group-czey-Jq7
+  .item-2-Dx5 {
+  margin: 0rem 23.4rem 0.5rem 0rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.0049999873;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-2vrt-YxR
+  .auto-group-stbw-PCM
+  .auto-group-czey-Jq7
+  .we-take-pride-in-the-high-level-of-chauffeur-service-provided-by-all-of-our-chauffeurs-and-the-care-and-respect-that-they-take-in-servicing-the-needs-of-our-customers-KkD {
+  max-width: 41.9rem;
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.4900000095;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-2vrt-YxR
+  .auto-group-stbw-PCM
+  .rectangle-8092-z5f {
+  width: 18.2rem;
+  height: 17.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003471-tb3 .auto-group-2vrt-YxR .line-33-hkm {
+  margin-bottom: 2.3rem;
+  width: 89.7rem;
+  height: 0.1rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-2vrt-YxR
+  .auto-group-sthf-3Jq {
+  margin-bottom: 0.2rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-2vrt-YxR
+  .auto-group-sthf-3Jq
+  .rectangle-8093-Bfw {
+  margin-right: 1.3rem;
+  width: 18.2rem;
+  height: 17.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-2vrt-YxR
+  .auto-group-sthf-3Jq
+  .we-take-pride-in-the-high-level-of-chauffeur-service-provided-by-all-of-our-chauffeurs-and-the-care-and-respect-that-they-take-in-servicing-the-needs-of-our-customers-iA5 {
+  margin: 0rem 23.4rem 1.1rem 0rem;
+  max-width: 41.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.4900000095;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-2vrt-YxR
+  .auto-group-sthf-3Jq
+  .item-3-kcZ {
+  margin-bottom: 1.6rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.0049999873;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003471-tb3 .auto-group-2vrt-YxR .line-34-tCy {
+  margin: 0rem 0rem 2.3rem 0.1rem;
+  width: 89.7rem;
+  height: 0.1rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-2vrt-YxR
+  .auto-group-kpzh-p6d {
+  margin: 0rem 7.1rem 0.2rem 1.5rem;
+  width: calc(100% - 8.6rem);
+  height: 17.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-2vrt-YxR
+  .auto-group-kpzh-p6d
+  .auto-group-ygho-K3P {
+  box-sizing: border-box;
+  padding: 7.1rem 1.3rem 1.1rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-2vrt-YxR
+  .auto-group-kpzh-p6d
+  .auto-group-ygho-K3P
+  .item-4-3zy {
+  margin: 0rem 23.4rem 0.5rem 0rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.0049999873;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-2vrt-YxR
+  .auto-group-kpzh-p6d
+  .auto-group-ygho-K3P
+  .we-take-pride-in-the-high-level-of-chauffeur-service-provided-by-all-of-our-chauffeurs-and-the-care-and-respect-that-they-take-in-servicing-the-needs-of-our-customers-MVs {
+  max-width: 41.9rem;
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.4900000095;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-2vrt-YxR
+  .auto-group-kpzh-p6d
+  .rectangle-8094-dCV {
+  width: 18.2rem;
+  height: 17.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003471-tb3 .auto-group-2vrt-YxR .line-35-AiD {
+  margin-bottom: 4.9rem;
+  width: 89.7rem;
+  height: 0.1rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003471-tb3
+  .auto-group-2vrt-YxR
+  .auto-group-vyxu-7dT {
+  width: 29.9rem;
+  height: 7.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #fbfbfd;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+  border: solid 0.2rem #fca311;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003470-WvV {
+  margin-bottom: 11rem;
+  width: 100%;
+  height: 80.4rem;
+  position: relative;
+  background-color: #0c0c0c;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003470-WvV .rectangle-8097-FNH {
+  width: 144rem;
+  height: 39.3rem;
+  position: relative;
+  left: 0;
+  top: 20.6rem;
+  background-size: 100% 243.768%;
+  background-position: 0 -4.2504rem;
+  background-image: url("../assets/rectangle-8097-EXK.png");
+}
+.design-2-home-yTo .frame-1000003470-WvV .pseudo-kK3 {
+  opacity: 0.6;
+  width: 144rem;
+  height: 39.3rem;
+  position: absolute;
+  left: 0;
+  top: 20.6rem;
+  background-color: rgba(0, 0, 0, 0.6000000238);
+}
+.design-2-home-yTo .frame-1000003470-WvV .all-the-categories-5MK {
+  width: 29.7rem;
+  height: 12.1rem;
+  position: absolute;
+  left: 19.8rem;
+  top: 29rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 1.0049999873;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+}
+.design-2-home-yTo
+  .frame-1000003470-WvV
+  .we-take-pride-in-the-high-level-of-chauffeur-service-provided-by-all-of-our-chauffeurs-and-the-care-and-respect-that-they-take-in-servicing-the-needs-of-our-customers-yBo {
+  width: 41.9rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 19.8rem;
+  top: 42.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.4900000095;
+  letter-spacing: 0.08rem;
+  color: #ffffff;
+  font-family: Open Sans, "Source Sans Pro";
+}
+.design-2-home-yTo .frame-1000003470-WvV .rectangle-8098-1eH {
+  width: 51.3rem;
+  height: 60.3rem;
+  position: absolute;
+  left: 75.9rem;
+  top: 10rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #131313;
+}
+.design-2-home-yTo .frame-1000003470-WvV .rectangle-8088-wH3 {
+  width: 29.9rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 86.6rem;
+  top: 54.6rem;
+  border: solid 0.2rem #fca311;
+  box-sizing: border-box;
+}
+.design-2-home-yTo .frame-1000003470-WvV .view-more-cty {
+  width: 9.9rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 96.6rem;
+  top: 57.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #fbfbfd;
+  font-family: Open Sans, "Source Sans Pro";
+  white-space: nowrap;
+}
+.design-2-home-yTo .frame-1000003443-iSD {
+  box-sizing: border-box;
+  padding: 9.2rem 15.9rem 9.1rem 12rem;
+  width: 100%;
+  height: 43.9rem;
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003443-iSD .auto-group-etww-1AR {
+  margin: 0rem 6.2rem 15.1rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003443-iSD .auto-group-etww-1AR .y-cars-logo-js7 {
+  margin-bottom: 1.9174rem;
+  width: 9.9992rem;
+  height: 4.9826rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003443-iSD
+  .auto-group-etww-1AR
+  .we-take-pride-in-the-high-level-of-chauffeur-service-UZo {
+  max-width: 21.9rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.490000089;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003443-iSD .group-192-PRs {
+  margin: 0rem 11.5rem 1.7rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003443-iSD
+  .group-192-PRs
+  .business-solutions-6r5 {
+  margin-bottom: 1.9rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2222222222;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003443-iSD
+  .group-192-PRs
+  .corporate-travel-agencies-event-management-dLD {
+  margin-bottom: 3.5rem;
+  max-width: 11.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 2.5833333333;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003443-iSD .group-192-PRs .our-fleets-kQq {
+  margin-bottom: 2.6rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2222222222;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003443-iSD .group-192-PRs .become-a-supplier-t1F {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2222222222;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003443-iSD .group-189-1bf {
+  margin-right: 11.9rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003443-iSD .group-189-1bf .services-MfX {
+  margin-bottom: 1.9rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2222222222;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003443-iSD
+  .group-189-1bf
+  .airport-transfers-road-shows-event-transfers-intercity-transfers-4pq {
+  margin-bottom: 2.6rem;
+  max-width: 10.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 2.5833333333;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003443-iSD .group-189-1bf .faq-x9X {
+  margin-bottom: 2.1rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2222222222;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003443-iSD .group-189-1bf .blogs-tYy {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2222222222;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003443-iSD .group-191-pxR {
+  margin: 0rem 13rem 2.9rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003443-iSD .group-191-pxR .top-cities-NU9 {
+  margin-bottom: 1.9rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2222222222;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003443-iSD
+  .group-191-pxR
+  .london-paris-rome-dubai-istanbul-singapore-UXB {
+  max-width: 6.2rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 2.5833333333;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003443-iSD .group-190-nnm {
+  margin-bottom: 4.7rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003443-iSD .group-190-nnm .legals-wff {
+  margin-bottom: 1.9rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2222222222;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo
+  .frame-1000003443-iSD
+  .group-190-nnm
+  .terms-conditions-privacy-policy-gdpr-policy-rXj {
+  margin-bottom: 2.1rem;
+  max-width: 12.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 2.5833333333;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003443-iSD .group-190-nnm .contact-us-AoK {
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5714285714;
+  text-transform: uppercase;
+  color: #fca311;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.design-2-home-yTo .frame-1000003443-iSD .group-190-nnm .chat-with-us-W6V {
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5714285714;
+  text-transform: uppercase;
+  color: #fca311;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
