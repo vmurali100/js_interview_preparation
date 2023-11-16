@@ -346,7 +346,7 @@ body {
   .welcome-content-right
   .formtransferform
   .to-transfer
-  .icon-pin-ayw {
+  .icon-pin-to {
   margin: 0.644rem 1.45rem 0rem 0rem;
   width: 1.5rem;
   height: 1.8107rem;
@@ -360,7 +360,7 @@ body {
   .welcome-content-right
   .formtransferform
   .to-transfer
-  .auto-group-z9ir-TXw {
+  .to-placeholder {
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -372,7 +372,7 @@ body {
   .welcome-content-right
   .formtransferform
   .to-transfer
-  .auto-group-z9ir-TXw
+  .to-placeholder
   .to-cfj {
   margin-bottom: 0.4rem;
   display: flex;
@@ -391,8 +391,8 @@ body {
   .welcome-content-right
   .formtransferform
   .to-transfer
-  .auto-group-z9ir-TXw
-  .divplaceholder-8PB {
+  .to-placeholder
+  .divplaceholder-addr {
   margin-left: 0.05rem;
   width: 18.8rem;
   height: 2.2rem;
@@ -414,7 +414,7 @@ body {
   .welcome-content
   .welcome-content-right
   .formtransferform
-  .please-select-a-pickup-date-y8u {
+  .pickup-date {
   margin-bottom: 0.8rem;
   box-sizing: border-box;
   padding: 0.7rem 1.87rem 1.05rem 1.367rem;
@@ -431,8 +431,8 @@ body {
   .welcome-content
   .welcome-content-right
   .formtransferform
-  .please-select-a-pickup-date-y8u
-  .icon-calendar-UbT {
+  .pickup-date
+  .icon-calendar {
   margin: 0.283rem 1.367rem 0rem 0rem;
   width: 1.6667rem;
   height: 1.6667rem;
@@ -445,8 +445,8 @@ body {
   .welcome-content
   .welcome-content-right
   .formtransferform
-  .please-select-a-pickup-date-y8u
-  .auto-group-vqbf-ADP {
+  .pickup-date
+  .date-details {
   margin-right: 20.1197rem;
   height: 100%;
   display: flex;
@@ -458,9 +458,9 @@ body {
   .welcome-content
   .welcome-content-right
   .formtransferform
-  .please-select-a-pickup-date-y8u
-  .auto-group-vqbf-ADP
-  .date-Hoo {
+  .pickup-date
+  .date-details
+  .date-info {
   margin-bottom: 0.35rem;
   display: flex;
   font-size: 1.3rem;
@@ -477,9 +477,9 @@ body {
   .welcome-content
   .welcome-content-right
   .formtransferform
-  .please-select-a-pickup-date-y8u
-  .auto-group-vqbf-ADP
-  .div-bZb {
+  .pickup-date
+  .date-details
+  .date-show {
   margin-left: 0.05rem;
   width: 13.3rem;
   height: 2.4rem;
@@ -501,8 +501,8 @@ body {
   .welcome-content
   .welcome-content-right
   .formtransferform
-  .please-select-a-pickup-date-y8u
-  .icon-angle-down-VQ5 {
+  .pickup-date
+  .icon-angle-down {
   margin-top: 2.4685rem;
   width: 1.0607rem;
   height: 0.6482rem;
@@ -515,7 +515,7 @@ body {
   .welcome-content
   .welcome-content-right
   .formtransferform
-  .div-QG9 {
+  .time-info {
   margin-bottom: 2.45rem;
   width: 100%;
   align-items: center;
@@ -528,7 +528,7 @@ body {
   .welcome-content
   .welcome-content-right
   .formtransferform
-  .div-QG9
+  .time-info
   .div-Yt9 {
   margin-bottom: 0.35rem;
   width: 100%;
@@ -541,7 +541,7 @@ body {
   .welcome-content
   .welcome-content-right
   .formtransferform
-  .div-QG9
+  .time-info
   .div-Yt9
   .time-5dB {
   width: 3.3rem;
@@ -563,7 +563,7 @@ body {
   .welcome-content
   .welcome-content-right
   .formtransferform
-  .div-QG9
+  .time-info
   .div-Yt9
   .icon-time-nGh {
   width: 1.6667rem;
@@ -579,7 +579,7 @@ body {
   .welcome-content
   .welcome-content-right
   .formtransferform
-  .div-QG9
+  .time-info
   .div-Yt9
   .div-iRF {
   box-sizing: border-box;
@@ -599,7 +599,7 @@ body {
   .welcome-content
   .welcome-content-right
   .formtransferform
-  .div-QG9
+  .time-info
   .div-Yt9
   .div-iRF
   .div-bzq {
@@ -624,7 +624,7 @@ body {
   .welcome-content
   .welcome-content-right
   .formtransferform
-  .div-QG9
+  .time-info
   .div-Yt9
   .div-iRF
   .item--fUu {
@@ -644,7 +644,7 @@ body {
   .welcome-content
   .welcome-content-right
   .formtransferform
-  .div-QG9
+  .time-info
   .div-Yt9
   .div-iRF
   .div-AAm {
@@ -669,7 +669,7 @@ body {
   .welcome-content
   .welcome-content-right
   .formtransferform
-  .div-QG9
+  .time-info
   .chauffeur-will-wait-15-minutes-free-of-charge-PJR {
   margin-right: 3.9rem;
   display: flex;
