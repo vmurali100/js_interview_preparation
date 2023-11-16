@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      * {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        padding: 0;
+      }
+
+      .wrapper {
+        width: 1440px;
+        margin: 0 auto; /* Center the wrapper */
+        position: relative; /* Add position relative for absolute positioning */
+        background-image: url("./Rectangle\ 8046.png"); /* Replace 'your-background-image.jpg' with your image file */
+        background-size: cover; /* Adjust background size as needed */
+        background-position: center center; /* Adjust background position as needed */
+        background-repeat: no-repeat; /* Prevent background image from repeating */
+        padding: 45px 0;
+      }
+
+      .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(
+          0,
+          0,
+          0,
+          0.3
+        ); /* Adjust the alpha value (0.3) for transparency */
+        z-index: -1; /* Move the overlay behind other elements */
+      }
+
+      header {
+        padding: 10px; /* Adjust padding as needed */
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 120px; /* Add margin on both left and right sides */
+      }
+
+      .logo {
+        /* Add styles for your logo */
+        /* Example: width, height, background-image, etc. */
+      }
+
+      nav {
+        /* Adjust margin or padding as needed */
+      }
+
+      nav ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        text-align: right; /* Align the navigation to the right */
+      }
+
+      nav li {
+        display: inline-block;
+        margin-left: 20px; /* Adjust margin between menu items */
+      }
+
+      nav a {
+        text-decoration: none;
+        font-weight: bold; /* Add your preferred font weight */
+        color: #a0a0a0;
+        font-family: Poppins;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 149%; /* 20.86px */
+      }
+      /* Welcome message container */
+      /* Welcome message container styles */
+      .welcome-container {
+        margin: 0 120px; /* Add 120px margin on both left and right sides */
+        height: 793px;
+        display: flex;
+        align-items: flex-start; /* Align items to the top of the container */
+      }
+
+      /* Welcome message left division styles */
+      .welcome-message-left {
+        width: 793px;
+        padding: 32px 32px 0; /* Top padding added to move the heading to the top */
+        border: 1px solid #fff;
+        border-right: none;
+        height: 768px;
+      }
+      .welcome-heading {
+        color: #fff;
+        font-family: "Open Sans", sans-serif;
+        font-size: 80px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 100.5%;
+      }
+      /* Welcome message right division styles */
+      .welcome-message-right {
+        flex: 1; /* Take up remaining available space */
+        padding-left: 20px; /* Add padding between the two divisions */
+      }
+      .welcome-message {
+        color: #fff;
+        font-family: Open Sans;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 149%; /* 23.84px */
+        letter-spacing: 0.8px;
+        width: 480px;
+        margin-top: 20px;
+      }
+      /* Welcome message right division styles */
+      .welcome-message-right {
+        flex: 1; /* Take up remaining available space */
+        padding-left: 20px; /* Add padding between the tabs and the text */
+      }
+
+      /* Tabs container styles */
+      .tabs-container {
+        width: 440px;
+        display: flex;
+      }
+
+      /* Individual tab styles */
+      .tab {
+        flex: 1;
+        padding: 10px;
+        background-color: #f2f2f2; /* Add your preferred background color */
+        text-align: center;
+        cursor: pointer;
+      }
+
+      /* Style for the active tab (optional) */
+      .tab.active {
+        background-color: #ddd; /* Add your preferred background color for the active tab */
+        color: #333; /* Add your preferred text color for the active tab */
+      }
+
+      input {
+        margin-bottom: 10px;
+        display: inline-flex;
+        height: 65px;
+        padding: 31.5px 45.5px 11.5px 44.5px;
+        justify-content: center;
+        align-items: center;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        border: 1px solid #ccc; /* Add border styling as needed */
+        border-radius: 5px; /* Add border-radius as needed */
+        font-size: 16px; /* Add font-size as needed */
+        border-radius: 4px;
+        width: 408px;
+        margin: 0 auto;
+        margin: 10px 0;
+      }
+      .tab-content {
+        background: #f0f2f7;
+        padding: 15px;
+      }
+      .tab-button {
+        display: flex;
+        width: 408px;
+        height: 48px;
+        justify-content: center;
+        align-items: center;
+        flex-shrink: 0;
+        border-radius: 4px;
+        background: #fca311;
+        margin-top: 20px;
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <!-- Add the overlay div for the transparent layer -->
+
+      <header>
+        <div class="logo">
+          <img src="./Y cars logo.png" alt="" />
+          <!-- Your logo content goes here -->
+          <!-- Example: <img src="logo.png" alt="Logo"> -->
+        </div>
+        <nav>
+          <ul>
+            <li><a href="#">Item 1</a></li>
+            <li><a href="#">Item 2</a></li>
+            <li><a href="#">Item 3</a></li>
+            <li><a href="#">Item 4</a></li>
+            <li><a href="#">Item 5</a></li>
+            <li><a href="#">Item 6</a></li>
+          </ul>
+        </nav>
+      </header>
+
+      <!-- Your page content goes here -->
+      <!-- Welcome message container -->
+      <!-- Welcome message container -->
+      <div class="welcome-container">
+        <div class="welcome-message-left">
+          <h1 class="welcome-heading">YOUR TRAVEL COMPANION</h1>
+          <p class="welcome-message">
+            We take pride in the high level of chauffeur service provided by all
+            of our chauffeurs and the care and respect that they take in
+            servicing the needs of our customers.
+          </p>
+        </div>
+        <div class="welcome-message-right">
+          <div class="tabs-container">
+            <div class="tab">Tab 1</div>
+            <div class="tab">Tab 2</div>
+          </div>
+          <div class="tab-content" id="tab1-content">
+            <!-- Input fields for Tab 1 -->
+            <input type="text" placeholder="Text Field 1" />
+            <input type="text" placeholder="Text Field 2" />
+            <input type="date" placeholder="Date" />
+            <input type="time" placeholder="Time" />
+            <button class="tab-button">Search</button>
+          </div>
+        </div>
+      </div>
+      <div class="overlay"></div>
+    </div>
+  </body>
+</html>
