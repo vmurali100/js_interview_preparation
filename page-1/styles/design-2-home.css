@@ -745,7 +745,7 @@ body {
   display: flex;
   flex-direction: column;
 }
-.main-wrapper .cars-area .cars-area .auto-group-cyl1-bBX {
+.main-wrapper .cars-area .cars-area .cars-area-header {
   box-sizing: border-box;
   padding: 0rem 31.1rem 5.6rem 36.2rem;
   width: 100%;
@@ -757,8 +757,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-cyl1-bBX
-  .select-a-car-that-you-really-need-uT7 {
+  .cars-area-header
+  .cars-area-title {
   margin: 0rem 30.1rem 4.3rem 0rem;
   font-size: 3rem;
   font-weight: 400;
@@ -772,8 +772,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-cyl1-bBX
-  .arrow-5-Qem {
+  .cars-area-header
+  .arrow {
   margin-left: 41.2rem;
   width: 42.9rem;
   height: 0;
@@ -781,7 +781,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.main-wrapper .cars-area .cars-area .auto-group-khxm-8Ks {
+.main-wrapper .cars-area .cars-area .cars-section {
   width: 100%;
   height: 52.1rem;
   display: flex;
@@ -791,8 +791,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-mazm-eZ7 {
+  .cars-section
+  .cars-section-left {
   margin: 3.8rem 11.4rem 3.9rem 0rem;
   width: 39.7rem;
   height: calc(100% - 7.7rem);
@@ -803,8 +803,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-mazm-eZ7
+  .cars-section
+  .cars-section-left
   .item-197-1-x41 {
   width: 33.9rem;
   height: 17.2rem;
@@ -818,8 +818,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-mazm-eZ7
+  .cars-section
+  .cars-section-left
   .mercedes-maybach-dfw {
   width: 15.8rem;
   height: 2.4rem;
@@ -836,8 +836,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-mazm-eZ7
+  .cars-section
+  .cars-section-left
   .max-3-6ZX {
   width: 3.4rem;
   height: 2rem;
@@ -856,8 +856,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-mazm-eZ7
+  .cars-section
+  .cars-section-left
   .max-2-Q4R {
   width: 3.4rem;
   height: 2rem;
@@ -876,8 +876,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-mazm-eZ7
+  .cars-section
+  .cars-section-left
   .vector-JvV {
   width: 2.4rem;
   height: 1.6934rem;
@@ -890,8 +890,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-mazm-eZ7
+  .cars-section
+  .cars-section-left
   .vector-eUZ {
   width: 1.6rem;
   height: 2.1rem;
@@ -904,8 +904,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-mazm-eZ7
+  .cars-section
+  .cars-section-left
   .item-651-CFB {
   width: 7.3rem;
   height: 3.4rem;
@@ -922,8 +922,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-mazm-eZ7
+  .cars-section
+  .cars-section-left
   .hr-GVw {
   width: 1.9rem;
   height: 2rem;
@@ -942,8 +942,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-mazm-eZ7
+  .cars-section
+  .cars-section-left
   .rectangle-8089-aWd {
   width: 18.1rem;
   height: 4.5rem;
@@ -956,8 +956,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-mazm-eZ7
+  .cars-section
+  .cars-section-left
   .book-now-GeM {
   width: 6.7rem;
   height: 2.1rem;
@@ -975,8 +975,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-mazm-eZ7
+  .cars-section
+  .cars-section-left
   .pseudo-NSV {
   opacity: 0.6;
   width: 34.3rem;
@@ -989,8 +989,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-pyed-Vn1 {
+  .cars-section
+  .cars-section-middle {
   margin-right: 11.8rem;
   box-sizing: border-box;
   padding: 3.8rem 3.3rem 2.5rem 5.9rem;
@@ -1005,8 +1005,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-pyed-Vn1
+  .cars-section
+  .cars-section-middle
   .auto-group-nnyw-onh {
   margin: 0rem 0rem 5.5rem 33.8rem;
   width: calc(100% - 33.8rem);
@@ -1017,8 +1017,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-pyed-Vn1
+  .cars-section
+  .cars-section-middle
   .auto-group-nnyw-onh
   .item-651-v6d {
   font-size: 3.2rem;
@@ -1032,8 +1032,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-pyed-Vn1
+  .cars-section
+  .cars-section-middle
   .auto-group-nnyw-onh
   .hr-4Cq {
   margin-bottom: 0.1rem;
@@ -1050,8 +1050,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-pyed-Vn1
+  .cars-section
+  .cars-section-middle
   .mercedes-benz-s-class-car-1-aS5 {
   margin-bottom: 1rem;
   width: 43rem;
@@ -1063,8 +1063,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-pyed-Vn1
+  .cars-section
+  .cars-section-middle
   .mercedes-s-class-hmb {
   margin: 0rem 2.7rem 0.3rem 0rem;
   font-size: 1.6rem;
@@ -1078,8 +1078,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-pyed-Vn1
+  .cars-section
+  .cars-section-middle
   .auto-group-z6q9-prD {
   margin: 0rem 17.283rem 1.9rem 13.1rem;
   width: calc(100% - 30.3828rem);
@@ -1090,8 +1090,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-pyed-Vn1
+  .cars-section
+  .cars-section-middle
   .auto-group-z6q9-prD
   .vector-M5T {
   margin: 0rem 0.4rem 0.207rem 0rem;
@@ -1104,8 +1104,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-pyed-Vn1
+  .cars-section
+  .cars-section-middle
   .auto-group-z6q9-prD
   .max-3-GCR {
   margin: 0.7rem 1rem 0rem 0rem;
@@ -1122,8 +1122,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-pyed-Vn1
+  .cars-section
+  .cars-section-middle
   .auto-group-z6q9-prD
   .vector-xL9 {
   margin: 0rem 0.417rem 0.6rem 0rem;
@@ -1136,8 +1136,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-pyed-Vn1
+  .cars-section
+  .cars-section-middle
   .auto-group-z6q9-prD
   .max-2-4PB {
   margin-top: 0.7rem;
@@ -1154,8 +1154,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .auto-group-pyed-Vn1
+  .cars-section
+  .cars-section-middle
   .auto-group-jcxy-Nuf {
   margin: 0rem 13.8rem 0rem 11.1rem;
   width: calc(100% - 24.9rem);
@@ -1177,8 +1177,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .group-671-cZ7 {
+  .cars-section
+  .cars-section-right {
   margin: 3.8rem 0rem 3.9rem 0rem;
   width: 36.3rem;
   height: calc(100% - 7.7rem);
@@ -1189,8 +1189,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .group-671-cZ7
+  .cars-section
+  .cars-section-right
   .rolls-royce-ghost-black-car-2-1-XRB {
   width: 31.3rem;
   height: 17.8rem;
@@ -1203,8 +1203,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .group-671-cZ7
+  .cars-section
+  .cars-section-right
   .rolls-royce-ghost-15T {
   width: 14.1rem;
   height: 2.4rem;
@@ -1221,8 +1221,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .group-671-cZ7
+  .cars-section
+  .cars-section-right
   .max-3-qqB {
   width: 3.4rem;
   height: 2rem;
@@ -1241,8 +1241,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .group-671-cZ7
+  .cars-section
+  .cars-section-right
   .max-2-WAd {
   width: 3.4rem;
   height: 2rem;
@@ -1261,8 +1261,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .group-671-cZ7
+  .cars-section
+  .cars-section-right
   .vector-Zeh {
   width: 2.4rem;
   height: 1.6934rem;
@@ -1275,8 +1275,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .group-671-cZ7
+  .cars-section
+  .cars-section-right
   .vector-hku {
   width: 1.6rem;
   height: 2.1rem;
@@ -1289,8 +1289,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .group-671-cZ7
+  .cars-section
+  .cars-section-right
   .item-651-1mb {
   width: 7.3rem;
   height: 3.4rem;
@@ -1307,8 +1307,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .group-671-cZ7
+  .cars-section
+  .cars-section-right
   .rectangle-8089-JEu {
   width: 18.1rem;
   height: 4.5rem;
@@ -1321,8 +1321,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .group-671-cZ7
+  .cars-section
+  .cars-section-right
   .book-now-D6y {
   width: 6.7rem;
   height: 2.1rem;
@@ -1340,8 +1340,8 @@ body {
 .main-wrapper
   .cars-area
   .cars-area
-  .auto-group-khxm-8Ks
-  .group-671-cZ7
+  .cars-section
+  .cars-section-right
   .pseudo-XNZ {
   opacity: 0.6;
   width: 34.3rem;
