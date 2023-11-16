@@ -2060,7 +2060,7 @@ body {
   box-sizing: border-box;
   background-color: #131313;
 }
-.main-wrapper .all-categories .rectangle-8088-wH3 {
+.main-wrapper .all-categories .rectangle-8088 {
   width: 29.9rem;
   height: 7.9rem;
   position: absolute;
@@ -2095,13 +2095,13 @@ body {
   background-color: #000000;
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .auto-group-etww-1AR {
+.main-wrapper .footer-area .footer-group-1 {
   margin: 0rem 6.2rem 15.1rem 0rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .auto-group-etww-1AR .y-cars-logo-js7 {
+.main-wrapper .footer-area .footer-group-1 .y-cars-logo-footer {
   margin-bottom: 1.9174rem;
   width: 9.9992rem;
   height: 4.9826rem;
@@ -2112,8 +2112,8 @@ body {
 }
 .main-wrapper
   .footer-area
-  .auto-group-etww-1AR
-  .we-take-pride-in-the-high-level-of-chauffeur-service-UZo {
+  .footer-group-1
+  .footer-group1-desc {
   max-width: 21.9rem;
   font-size: 1.2rem;
   font-weight: 400;
@@ -2123,13 +2123,13 @@ body {
   font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .group-192-PRs {
+.main-wrapper .footer-area .footer-group2 {
   margin: 0rem 11.5rem 1.7rem 0rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .group-192-PRs .business-solutions-6r5 {
+.main-wrapper .footer-area .footer-group2 .business-solutions {
   margin-bottom: 1.9rem;
   font-size: 1.8rem;
   font-weight: 700;
@@ -2142,8 +2142,8 @@ body {
 }
 .main-wrapper
   .footer-area
-  .group-192-PRs
-  .corporate-travel-agencies-event-management-dLD {
+  .footer-group2
+  .corporate-travel {
   margin-bottom: 3.5rem;
   max-width: 11.8rem;
   font-size: 1.2rem;
@@ -2153,7 +2153,7 @@ body {
   font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .group-192-PRs .our-fleets-kQq {
+.main-wrapper .footer-area .footer-group2 .our-fleets-kQq {
   margin-bottom: 2.6rem;
   font-size: 1.8rem;
   font-weight: 700;
@@ -2164,7 +2164,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .group-192-PRs .become-a-supplier-t1F {
+.main-wrapper .footer-area .footer-group2 .become-a-supplier-t1F {
   font-size: 1.8rem;
   font-weight: 700;
   line-height: 1.2222222222;
@@ -2174,14 +2174,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .group-189-1bf {
+.main-wrapper .footer-area .footer-group3 {
   margin-right: 11.9rem;
   height: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .group-189-1bf .services {
+.main-wrapper .footer-area .footer-group3 .services {
   margin-bottom: 1.9rem;
   font-size: 1.8rem;
   font-weight: 700;
@@ -2194,7 +2194,7 @@ body {
 }
 .main-wrapper
   .footer-area
-  .group-189-1bf
+  .footer-group3
   .airport-transfers-road-shows-event-transfers-intercity-transfers-4pq {
   margin-bottom: 2.6rem;
   max-width: 10.7rem;
@@ -2205,7 +2205,7 @@ body {
   font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .group-189-1bf .faq-x9X {
+.main-wrapper .footer-area .footer-group3 .faq-x9X {
   margin-bottom: 2.1rem;
   font-size: 1.8rem;
   font-weight: 700;
@@ -2216,7 +2216,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .group-189-1bf .blogs-tYy {
+.main-wrapper .footer-area .footer-group3 .blogs-tYy {
   font-size: 1.8rem;
   font-weight: 700;
   line-height: 1.2222222222;
@@ -2226,13 +2226,13 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .group-191-pxR {
+.main-wrapper .footer-area .footer-group4 {
   margin: 0rem 13rem 2.9rem 0rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .group-191-pxR .top-cities-NU9 {
+.main-wrapper .footer-area .footer-group4 .top-cities-NU9 {
   margin-bottom: 1.9rem;
   font-size: 1.8rem;
   font-weight: 700;
@@ -2245,7 +2245,7 @@ body {
 }
 .main-wrapper
   .footer-area
-  .group-191-pxR
+  .footer-group4
   .london-paris-rome-dubai-istanbul-singapore-UXB {
   max-width: 6.2rem;
   font-size: 1.2rem;
@@ -2255,13 +2255,13 @@ body {
   font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .group-190-nnm {
+.main-wrapper .footer-area .footer-group5 {
   margin-bottom: 4.7rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .group-190-nnm .legals-wff {
+.main-wrapper .footer-area .footer-group5 .legals-wff {
   margin-bottom: 1.9rem;
   font-size: 1.8rem;
   font-weight: 700;
@@ -2274,7 +2274,7 @@ body {
 }
 .main-wrapper
   .footer-area
-  .group-190-nnm
+  .footer-group5
   .terms-conditions-privacy-policy-gdpr-policy-rXj {
   margin-bottom: 2.1rem;
   max-width: 12.1rem;
@@ -2285,7 +2285,7 @@ body {
   font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .group-190-nnm .contact-us-AoK {
+.main-wrapper .footer-area .footer-group5 .contact-us-AoK {
   margin-bottom: 1rem;
   font-size: 1.4rem;
   font-weight: 500;
@@ -2296,7 +2296,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .group-190-nnm .chat-with-us-W6V {
+.main-wrapper .footer-area .footer-group5 .chat-with-us-W6V {
   font-size: 1.4rem;
   font-weight: 500;
   line-height: 1.5714285714;
