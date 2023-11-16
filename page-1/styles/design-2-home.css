@@ -96,7 +96,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .welcome-area .header .gallery-F1K {
+.main-wrapper .welcome-area .header .gallery {
   margin: 0rem 4.7rem 0.883rem 0rem;
   font-size: 1.4rem;
   font-weight: 600;
@@ -106,7 +106,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .welcome-area .header .contact-us-yT7 {
+.main-wrapper .welcome-area .header .contact {
   margin-bottom: 0.8826rem;
   font-size: 1.4rem;
   font-weight: 600;
