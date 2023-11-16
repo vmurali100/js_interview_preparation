@@ -229,7 +229,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF {
+  .formtransferform {
   margin-right: 1.6rem;
   width: 40.8rem;
   align-items: center;
@@ -241,8 +241,8 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
-  .from-transfer-wu3 {
+  .formtransferform
+  .from {
   margin-bottom: 0.8rem;
   box-sizing: border-box;
   padding: 0.75rem 17.55rem 1.15rem 1.45rem;
@@ -258,9 +258,9 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
-  .from-transfer-wu3
-  .icon-pin-byb {
+  .formtransferform
+  .from
+  .icon-pin {
   margin: 0.644rem 1.45rem 0rem 0rem;
   width: 1.5rem;
   height: 1.8107rem;
@@ -272,9 +272,9 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
-  .from-transfer-wu3
-  .auto-group-hfof-vky {
+  .formtransferform
+  .from
+  .from-info {
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -284,10 +284,10 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
-  .from-transfer-wu3
-  .auto-group-hfof-vky
-  .from-sw7 {
+  .formtransferform
+  .from
+  .from-info
+  .from-sw {
   margin-bottom: 0.4rem;
   display: flex;
   font-size: 1.3rem;
@@ -303,10 +303,10 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
-  .from-transfer-wu3
-  .auto-group-hfof-vky
-  .divplaceholder-CiV {
+  .formtransferform
+  .from
+  .from-info
+  .divplaceholder {
   margin-left: 0.05rem;
   width: 18.8rem;
   height: 2.2rem;
@@ -327,8 +327,8 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
-  .to-transfer-ro3 {
+  .formtransferform
+  .to-transfer {
   margin-bottom: 0.8rem;
   box-sizing: border-box;
   padding: 0.75rem 17.55rem 1.15rem 1.45rem;
@@ -344,8 +344,8 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
-  .to-transfer-ro3
+  .formtransferform
+  .to-transfer
   .icon-pin-ayw {
   margin: 0.644rem 1.45rem 0rem 0rem;
   width: 1.5rem;
@@ -358,8 +358,8 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
-  .to-transfer-ro3
+  .formtransferform
+  .to-transfer
   .auto-group-z9ir-TXw {
   height: 100%;
   display: flex;
@@ -370,8 +370,8 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
-  .to-transfer-ro3
+  .formtransferform
+  .to-transfer
   .auto-group-z9ir-TXw
   .to-cfj {
   margin-bottom: 0.4rem;
@@ -389,8 +389,8 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
-  .to-transfer-ro3
+  .formtransferform
+  .to-transfer
   .auto-group-z9ir-TXw
   .divplaceholder-8PB {
   margin-left: 0.05rem;
@@ -413,7 +413,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
+  .formtransferform
   .please-select-a-pickup-date-y8u {
   margin-bottom: 0.8rem;
   box-sizing: border-box;
@@ -430,7 +430,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
+  .formtransferform
   .please-select-a-pickup-date-y8u
   .icon-calendar-UbT {
   margin: 0.283rem 1.367rem 0rem 0rem;
@@ -444,7 +444,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
+  .formtransferform
   .please-select-a-pickup-date-y8u
   .auto-group-vqbf-ADP {
   margin-right: 20.1197rem;
@@ -457,7 +457,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
+  .formtransferform
   .please-select-a-pickup-date-y8u
   .auto-group-vqbf-ADP
   .date-Hoo {
@@ -476,7 +476,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
+  .formtransferform
   .please-select-a-pickup-date-y8u
   .auto-group-vqbf-ADP
   .div-bZb {
@@ -500,7 +500,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
+  .formtransferform
   .please-select-a-pickup-date-y8u
   .icon-angle-down-VQ5 {
   margin-top: 2.4685rem;
@@ -514,7 +514,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
+  .formtransferform
   .div-QG9 {
   margin-bottom: 2.45rem;
   width: 100%;
@@ -527,7 +527,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
+  .formtransferform
   .div-QG9
   .div-Yt9 {
   margin-bottom: 0.35rem;
@@ -540,7 +540,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
+  .formtransferform
   .div-QG9
   .div-Yt9
   .time-5dB {
@@ -562,7 +562,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
+  .formtransferform
   .div-QG9
   .div-Yt9
   .icon-time-nGh {
@@ -578,7 +578,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
+  .formtransferform
   .div-QG9
   .div-Yt9
   .div-iRF {
@@ -598,7 +598,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
+  .formtransferform
   .div-QG9
   .div-Yt9
   .div-iRF
@@ -623,7 +623,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
+  .formtransferform
   .div-QG9
   .div-Yt9
   .div-iRF
@@ -643,7 +643,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
+  .formtransferform
   .div-QG9
   .div-Yt9
   .div-iRF
@@ -668,7 +668,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
+  .formtransferform
   .div-QG9
   .chauffeur-will-wait-15-minutes-free-of-charge-PJR {
   margin-right: 3.9rem;
@@ -686,7 +686,7 @@ body {
   .welcome-area
   .welcome-content
   .welcome-content-right
-  .formtransferform-DTF
+  .formtransferform
   .button-tFB {
   width: 100%;
   height: 4.8rem;
