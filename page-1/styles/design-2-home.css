@@ -789,7 +789,7 @@ body {
   .cars-area
   .cars-section
   .cars-section-left
-  .item-197-1-x41 {
+  .item-197 {
   width: 33.9rem;
   height: 17.2rem;
   position: relative;
@@ -804,7 +804,7 @@ body {
   .cars-area
   .cars-section
   .cars-section-left
-  .mercedes-maybach-dfw {
+  .mercedes-maybach {
   width: 15.8rem;
   height: 2.4rem;
   position: absolute;
@@ -822,7 +822,7 @@ body {
   .cars-area
   .cars-section
   .cars-section-left
-  .max-3-6ZX {
+  .max-3 {
   width: 3.4rem;
   height: 2rem;
   position: absolute;
@@ -842,7 +842,7 @@ body {
   .cars-area
   .cars-section
   .cars-section-left
-  .max-2-Q4R {
+  .max-2 {
   width: 3.4rem;
   height: 2rem;
   position: absolute;
@@ -890,7 +890,7 @@ body {
   .cars-area
   .cars-section
   .cars-section-left
-  .item-651-CFB {
+  .item-651 {
   width: 7.3rem;
   height: 3.4rem;
   position: absolute;
@@ -923,7 +923,7 @@ body {
   .cars-area
   .cars-section
   .cars-section-left
-  .rectangle-8089-aWd {
+  .rectangle-8089 {
   width: 18.1rem;
   height: 4.5rem;
   position: absolute;
@@ -937,7 +937,7 @@ body {
   .cars-area
   .cars-section
   .cars-section-left
-  .book-now-GeM {
+  .book-now {
   width: 6.7rem;
   height: 2.1rem;
   position: absolute;
@@ -982,7 +982,7 @@ body {
   .cars-area
   .cars-section
   .cars-section-middle
-  .auto-group-nnyw-onh {
+  .middle-car-rate {
   margin: 0rem 0rem 5.5rem 33.8rem;
   width: calc(100% - 33.8rem);
   display: flex;
@@ -994,8 +994,8 @@ body {
   .cars-area
   .cars-section
   .cars-section-middle
-  .auto-group-nnyw-onh
-  .item-651-v6d {
+  .middle-car-rate
+  .middle-car-price {
   font-size: 3.2rem;
   font-weight: 500;
   line-height: 1.0550000668;
@@ -1009,7 +1009,7 @@ body {
   .cars-area
   .cars-section
   .cars-section-middle
-  .auto-group-nnyw-onh
+  .middle-car-rate
   .hr-4Cq {
   margin-bottom: 0.1rem;
   display: flex;
@@ -1027,7 +1027,7 @@ body {
   .cars-area
   .cars-section
   .cars-section-middle
-  .mercedes-benz-s-class-car-1-aS5 {
+  .mercedes-benz-s-class-car {
   margin-bottom: 1rem;
   width: 43rem;
   height: 24.1rem;
@@ -1131,7 +1131,7 @@ body {
   .cars-area
   .cars-section
   .cars-section-middle
-  .auto-group-jcxy-Nuf {
+  .mercedes-book-now {
   margin: 0rem 13.8rem 0rem 11.1rem;
   width: calc(100% - 24.9rem);
   height: 4.5rem;
@@ -1162,7 +1162,7 @@ body {
   .cars-area
   .cars-section
   .cars-section-right
-  .rolls-royce-ghost-black-car-2-1-XRB {
+  .rolls-royce-ghost-black-car {
   width: 31.3rem;
   height: 17.8rem;
   position: absolute;
@@ -1176,7 +1176,7 @@ body {
   .cars-area
   .cars-section
   .cars-section-right
-  .rolls-royce-ghost-15T {
+  .rolls-royce-ghost {
   width: 14.1rem;
   height: 2.4rem;
   position: absolute;
@@ -1460,7 +1460,7 @@ body {
   box-sizing: border-box;
   flex-shrink: 0;
 }
-.main-wrapper .cars-area .cars-area .view-more-section .arrow-6-cTs {
+.main-wrapper .cars-area .cars-area .view-more-section .arrow-view {
   margin-right: 15.1rem;
   width: 42.9rem;
   height: 0;
@@ -1468,7 +1468,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.main-wrapper .cars-area .cars-area .view-more-section .auto-group-8chf-AEV {
+.main-wrapper .cars-area .cars-area .view-more-section .arrow-view-button {
   margin-left: 28.1rem;
   width: 29.9rem;
   height: 7.9rem;
@@ -1493,7 +1493,7 @@ body {
   background-color: #0c0c0c;
   flex-shrink: 0;
 }
-.main-wrapper .travel-area .auto-group-kdb7-bj7 {
+.main-wrapper .travel-area .travel-area {
   width: 94.7rem;
   height: 73.7rem;
   position: absolute;
@@ -1502,7 +1502,7 @@ body {
   display: flex;
   align-items: center;
 }
-.main-wrapper .travel-area .auto-group-kdb7-bj7 .auto-group-uead-7xM {
+.main-wrapper .travel-area .travel-area .travel-area-section {
   width: 39.6rem;
   height: 100%;
   position: relative;
@@ -1510,9 +1510,9 @@ body {
 }
 .main-wrapper
   .travel-area
-  .auto-group-kdb7-bj7
-  .auto-group-uead-7xM
-  .rectangle-8090-3LD {
+  .travel-area
+  .travel-area-section
+  .travel-area-bg {
   width: 39.6rem;
   height: 73.6rem;
   position: relative;
@@ -1524,8 +1524,8 @@ body {
 }
 .main-wrapper
   .travel-area
-  .auto-group-kdb7-bj7
-  .auto-group-uead-7xM
+  .travel-area
+  .travel-area-section
   .pseudo-hff {
   opacity: 0.6;
   width: 39.6rem;
@@ -1537,9 +1537,9 @@ body {
 }
 .main-wrapper
   .travel-area
-  .auto-group-kdb7-bj7
-  .auto-group-uead-7xM
-  .ellipse-1667-2hw {
+  .travel-area
+  .travel-area-section
+  .ellipse {
   width: 10rem;
   height: 10rem;
   position: absolute;
@@ -1548,7 +1548,7 @@ body {
   background-color: #ffffff;
   border-radius: 5rem;
 }
-.main-wrapper .travel-area .auto-group-kdb7-bj7 .auto-group-pzop-YgH {
+.main-wrapper .travel-area .travel-area .travel-area-right {
   margin: 7.5rem 0rem 7.1rem 0rem;
   width: 55.1rem;
   height: calc(100% - 14.6rem);
@@ -1561,9 +1561,9 @@ body {
 }
 .main-wrapper
   .travel-area
-  .auto-group-kdb7-bj7
-  .auto-group-pzop-YgH
-  .your-travel-companion-3d3 {
+  .travel-area
+  .travel-area-right
+  .travel-area-companion {
   width: 38.6rem;
   height: 12.1rem;
   position: absolute;
@@ -1577,9 +1577,9 @@ body {
 }
 .main-wrapper
   .travel-area
-  .auto-group-kdb7-bj7
-  .auto-group-pzop-YgH
-  .we-take-pride-in-the-high-level-of-chauffeur-service-provided-by-all-of-our-chauffeurs-and-the-care-and-respect-that-they-take-in-servicing-the-needs-of-our-customers-iUH {
+  .travel-area
+  .travel-area-right
+  .travel-area-desc {
   width: 41.9rem;
   height: 9.6rem;
   position: absolute;
@@ -1594,8 +1594,8 @@ body {
 }
 .main-wrapper
   .travel-area
-  .auto-group-kdb7-bj7
-  .auto-group-pzop-YgH
+  .travel-area
+  .travel-area-right
   .learn-more-iMo {
   width: 14.3rem;
   height: 3.6rem;
@@ -1612,8 +1612,8 @@ body {
 }
 .main-wrapper
   .travel-area
-  .auto-group-kdb7-bj7
-  .auto-group-pzop-YgH
+  .travel-area
+  .travel-area-right
   .arrow-5-DZT {
   width: 20.5rem;
   height: 0;
@@ -1623,7 +1623,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.main-wrapper .travel-area .auto-group-hosq-wkM {
+.main-wrapper .travel-area .travel-area-cars {
   width: 68.2rem;
   height: 6.1rem;
   position: absolute;
@@ -1632,7 +1632,7 @@ body {
   display: flex;
   align-items: center;
 }
-.main-wrapper .travel-area .auto-group-hosq-wkM .cars-UEV {
+.main-wrapper .travel-area .travel-area-cars .cars-UEV {
   margin-right: 11.8rem;
   font-size: 6rem;
   font-weight: 400;
@@ -1642,7 +1642,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .travel-area .auto-group-hosq-wkM .item-1500-BPo {
+.main-wrapper .travel-area .travel-area-cars .item-1500 {
   margin-right: 18.2rem;
   font-size: 6rem;
   font-weight: 400;
@@ -1652,7 +1652,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .travel-area .auto-group-hosq-wkM .item-5-iPj {
+.main-wrapper .travel-area .travel-area-cars .item-5 {
   font-size: 6rem;
   font-weight: 400;
   line-height: 1.0049999873;
@@ -1661,7 +1661,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .travel-area .auto-group-dkvy-4Ch {
+.main-wrapper .travel-area .auto-group-dkvy-info {
   width: 77.4rem;
   height: 3.8rem;
   position: absolute;
@@ -1670,7 +1670,7 @@ body {
   display: flex;
   align-items: flex-end;
 }
-.main-wrapper .travel-area .auto-group-dkvy-4Ch .learn-more-neV {
+.main-wrapper .travel-area .auto-group-dkvy-info .learn-more-neV {
   margin: 0rem 17.9rem 0.2rem 0rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -1681,7 +1681,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .travel-area .auto-group-dkvy-4Ch .learn-more-sfw {
+.main-wrapper .travel-area .auto-group-dkvy-info .learn-more-sfw {
   margin-right: 16.6rem;
   font-size: 2.4rem;
   font-weight: 400;
@@ -1692,7 +1692,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .travel-area .auto-group-dkvy-4Ch .learn-more-CTK {
+.main-wrapper .travel-area .auto-group-dkvy-info .learn-more-CTK {
   font-size: 2.4rem;
   font-weight: 400;
   line-height: 1.490000089;
@@ -1727,7 +1727,7 @@ body {
 .main-wrapper
   .categories-area
   .categories-one
-  .we-take-pride-in-the-high-level-of-chauffeur-service-provided-by-all-of-our-chauffeurs-and-the-care-and-respect-that-they-take-in-servicing-the-needs-of-our-customers-6BK {
+  .category-desc {
   margin: 0rem 5.8rem 1.1rem 0rem;
   max-width: 41.9rem;
   font-size: 1.6rem;
@@ -1781,7 +1781,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.main-wrapper .categories-area .other-categories .line-32-Frq {
+.main-wrapper .categories-area .other-categories .line-32 {
   margin: 0rem 0rem 2.3rem 0.1rem;
   width: 89.7rem;
   height: 0.1rem;
@@ -2037,7 +2037,7 @@ body {
 }
 .main-wrapper
   .all-categories
-  .we-take-pride-in-the-high-level-of-chauffeur-service-provided-by-all-of-our-chauffeurs-and-the-care-and-respect-that-they-take-in-servicing-the-needs-of-our-customers-yBo {
+  .all-cat-desc {
   width: 41.9rem;
   height: 9.6rem;
   position: absolute;
@@ -2050,7 +2050,7 @@ body {
   color: #ffffff;
   font-family: Open Sans, "Source Sans Pro";
 }
-.main-wrapper .all-categories .rectangle-8098-1eH {
+.main-wrapper .all-categories .rectangle-8098 {
   width: 51.3rem;
   height: 60.3rem;
   position: absolute;
@@ -2181,7 +2181,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.main-wrapper .footer-area .group-189-1bf .services-MfX {
+.main-wrapper .footer-area .group-189-1bf .services {
   margin-bottom: 1.9rem;
   font-size: 1.8rem;
   font-weight: 700;
