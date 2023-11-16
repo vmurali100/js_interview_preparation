@@ -124,7 +124,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.main-wrapper .welcome-area .welcome-content .auto-group-8n9w-1ub {
+.main-wrapper .welcome-area .welcome-content .welcome-content-left {
   margin-right: 0.6rem;
   box-sizing: border-box;
   padding: 3.2rem 3.1rem 27.7rem 3.1rem;
@@ -139,7 +139,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .auto-group-8n9w-1ub
+  .welcome-content-left
   .your-travel-companion-W5f {
   margin-bottom: 1.9rem;
   max-width: 51.4rem;
@@ -152,7 +152,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .auto-group-8n9w-1ub
+  .welcome-content-left
   .we-take-pride-in-the-high-level-of-chauffeur-service-provided-by-all-of-our-chauffeurs-and-the-care-and-respect-that-they-take-in-servicing-the-needs-of-our-customers-1o7 {
   max-width: 48rem;
   font-size: 1.6rem;
@@ -162,7 +162,7 @@ body {
   color: #ffffff;
   font-family: Open Sans, "Source Sans Pro";
 }
-.main-wrapper .welcome-area .welcome-content .divbookingwidget-bWR {
+.main-wrapper .welcome-area .welcome-content .welcome-content-right {
   margin: 4.9rem 0rem 4.8rem 0rem;
   box-sizing: border-box;
   padding: 0rem 0rem 1.6rem 1.6rem;
@@ -179,7 +179,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .div-Hu3 {
   margin-bottom: 1.6rem;
   width: 100%;
@@ -191,7 +191,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .div-Hu3
   .one-way-qQm {
   margin: 0rem 12.5rem 0.2rem 0rem;
@@ -209,7 +209,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .div-Hu3
   .buttonhourlytab-tab-F77 {
   box-sizing: border-box;
@@ -232,7 +232,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF {
   margin-right: 1.6rem;
   width: 40.8rem;
@@ -244,7 +244,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .from-transfer-wu3 {
   margin-bottom: 0.8rem;
@@ -261,7 +261,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .from-transfer-wu3
   .icon-pin-byb {
@@ -275,7 +275,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .from-transfer-wu3
   .auto-group-hfof-vky {
@@ -287,7 +287,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .from-transfer-wu3
   .auto-group-hfof-vky
@@ -306,7 +306,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .from-transfer-wu3
   .auto-group-hfof-vky
@@ -330,7 +330,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .to-transfer-ro3 {
   margin-bottom: 0.8rem;
@@ -347,7 +347,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .to-transfer-ro3
   .icon-pin-ayw {
@@ -361,7 +361,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .to-transfer-ro3
   .auto-group-z9ir-TXw {
@@ -373,7 +373,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .to-transfer-ro3
   .auto-group-z9ir-TXw
@@ -392,7 +392,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .to-transfer-ro3
   .auto-group-z9ir-TXw
@@ -416,7 +416,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .please-select-a-pickup-date-y8u {
   margin-bottom: 0.8rem;
@@ -433,7 +433,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .please-select-a-pickup-date-y8u
   .icon-calendar-UbT {
@@ -447,7 +447,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .please-select-a-pickup-date-y8u
   .auto-group-vqbf-ADP {
@@ -460,7 +460,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .please-select-a-pickup-date-y8u
   .auto-group-vqbf-ADP
@@ -479,7 +479,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .please-select-a-pickup-date-y8u
   .auto-group-vqbf-ADP
@@ -503,7 +503,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .please-select-a-pickup-date-y8u
   .icon-angle-down-VQ5 {
@@ -517,7 +517,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .div-QG9 {
   margin-bottom: 2.45rem;
@@ -530,7 +530,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .div-QG9
   .div-Yt9 {
@@ -543,7 +543,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .div-QG9
   .div-Yt9
@@ -565,7 +565,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .div-QG9
   .div-Yt9
@@ -581,7 +581,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .div-QG9
   .div-Yt9
@@ -601,7 +601,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .div-QG9
   .div-Yt9
@@ -626,7 +626,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .div-QG9
   .div-Yt9
@@ -646,7 +646,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .div-QG9
   .div-Yt9
@@ -671,7 +671,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .div-QG9
   .chauffeur-will-wait-15-minutes-free-of-charge-PJR {
@@ -689,7 +689,7 @@ body {
 .main-wrapper
   .welcome-area
   .welcome-content
-  .divbookingwidget-bWR
+  .welcome-content-right
   .formtransferform-DTF
   .button-tFB {
   width: 100%;
