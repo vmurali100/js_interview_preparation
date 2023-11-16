@@ -46,7 +46,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.main-wrapper .welcome-area .header .y-cars-logo-KT7 {
+.main-wrapper .welcome-area .header .logo {
   margin-right: 47.7008rem;
   width: 9.9992rem;
   height: 4.9826rem;
@@ -55,7 +55,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.main-wrapper .welcome-area .header .home-S1w {
+.main-wrapper .welcome-area .header .home {
   margin: 0rem 4.6rem 0.883rem 0rem;
   text-align: right;
   font-size: 1.4rem;
@@ -66,7 +66,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .welcome-area .header .about-us-hCm {
+.main-wrapper .welcome-area .header .about {
   margin: 0rem 5rem 0.883rem 0rem;
   font-size: 1.4rem;
   font-weight: 600;
@@ -2126,7 +2126,7 @@ body {
   font-family: Open Sans, "Source Sans Pro";
   white-space: nowrap;
 }
-.main-wrapper .frame-1000003443-iSD {
+.main-wrapper .footer-area {
   box-sizing: border-box;
   padding: 9.2rem 15.9rem 9.1rem 12rem;
   width: 100%;
@@ -2136,13 +2136,13 @@ body {
   background-color: #000000;
   flex-shrink: 0;
 }
-.main-wrapper .frame-1000003443-iSD .auto-group-etww-1AR {
+.main-wrapper .footer-area .auto-group-etww-1AR {
   margin: 0rem 6.2rem 15.1rem 0rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.main-wrapper .frame-1000003443-iSD .auto-group-etww-1AR .y-cars-logo-js7 {
+.main-wrapper .footer-area .auto-group-etww-1AR .y-cars-logo-js7 {
   margin-bottom: 1.9174rem;
   width: 9.9992rem;
   height: 4.9826rem;
@@ -2152,7 +2152,7 @@ body {
   flex-shrink: 0;
 }
 .main-wrapper
-  .frame-1000003443-iSD
+  .footer-area
   .auto-group-etww-1AR
   .we-take-pride-in-the-high-level-of-chauffeur-service-UZo {
   max-width: 21.9rem;
@@ -2164,13 +2164,13 @@ body {
   font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.main-wrapper .frame-1000003443-iSD .group-192-PRs {
+.main-wrapper .footer-area .group-192-PRs {
   margin: 0rem 11.5rem 1.7rem 0rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.main-wrapper .frame-1000003443-iSD .group-192-PRs .business-solutions-6r5 {
+.main-wrapper .footer-area .group-192-PRs .business-solutions-6r5 {
   margin-bottom: 1.9rem;
   font-size: 1.8rem;
   font-weight: 700;
@@ -2182,7 +2182,7 @@ body {
   flex-shrink: 0;
 }
 .main-wrapper
-  .frame-1000003443-iSD
+  .footer-area
   .group-192-PRs
   .corporate-travel-agencies-event-management-dLD {
   margin-bottom: 3.5rem;
@@ -2194,7 +2194,7 @@ body {
   font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.main-wrapper .frame-1000003443-iSD .group-192-PRs .our-fleets-kQq {
+.main-wrapper .footer-area .group-192-PRs .our-fleets-kQq {
   margin-bottom: 2.6rem;
   font-size: 1.8rem;
   font-weight: 700;
@@ -2205,7 +2205,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .frame-1000003443-iSD .group-192-PRs .become-a-supplier-t1F {
+.main-wrapper .footer-area .group-192-PRs .become-a-supplier-t1F {
   font-size: 1.8rem;
   font-weight: 700;
   line-height: 1.2222222222;
@@ -2215,14 +2215,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .frame-1000003443-iSD .group-189-1bf {
+.main-wrapper .footer-area .group-189-1bf {
   margin-right: 11.9rem;
   height: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.main-wrapper .frame-1000003443-iSD .group-189-1bf .services-MfX {
+.main-wrapper .footer-area .group-189-1bf .services-MfX {
   margin-bottom: 1.9rem;
   font-size: 1.8rem;
   font-weight: 700;
@@ -2234,7 +2234,7 @@ body {
   flex-shrink: 0;
 }
 .main-wrapper
-  .frame-1000003443-iSD
+  .footer-area
   .group-189-1bf
   .airport-transfers-road-shows-event-transfers-intercity-transfers-4pq {
   margin-bottom: 2.6rem;
@@ -2246,7 +2246,7 @@ body {
   font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.main-wrapper .frame-1000003443-iSD .group-189-1bf .faq-x9X {
+.main-wrapper .footer-area .group-189-1bf .faq-x9X {
   margin-bottom: 2.1rem;
   font-size: 1.8rem;
   font-weight: 700;
@@ -2257,7 +2257,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .frame-1000003443-iSD .group-189-1bf .blogs-tYy {
+.main-wrapper .footer-area .group-189-1bf .blogs-tYy {
   font-size: 1.8rem;
   font-weight: 700;
   line-height: 1.2222222222;
@@ -2267,13 +2267,13 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .frame-1000003443-iSD .group-191-pxR {
+.main-wrapper .footer-area .group-191-pxR {
   margin: 0rem 13rem 2.9rem 0rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.main-wrapper .frame-1000003443-iSD .group-191-pxR .top-cities-NU9 {
+.main-wrapper .footer-area .group-191-pxR .top-cities-NU9 {
   margin-bottom: 1.9rem;
   font-size: 1.8rem;
   font-weight: 700;
@@ -2285,7 +2285,7 @@ body {
   flex-shrink: 0;
 }
 .main-wrapper
-  .frame-1000003443-iSD
+  .footer-area
   .group-191-pxR
   .london-paris-rome-dubai-istanbul-singapore-UXB {
   max-width: 6.2rem;
@@ -2296,13 +2296,13 @@ body {
   font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.main-wrapper .frame-1000003443-iSD .group-190-nnm {
+.main-wrapper .footer-area .group-190-nnm {
   margin-bottom: 4.7rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.main-wrapper .frame-1000003443-iSD .group-190-nnm .legals-wff {
+.main-wrapper .footer-area .group-190-nnm .legals-wff {
   margin-bottom: 1.9rem;
   font-size: 1.8rem;
   font-weight: 700;
@@ -2314,7 +2314,7 @@ body {
   flex-shrink: 0;
 }
 .main-wrapper
-  .frame-1000003443-iSD
+  .footer-area
   .group-190-nnm
   .terms-conditions-privacy-policy-gdpr-policy-rXj {
   margin-bottom: 2.1rem;
@@ -2326,7 +2326,7 @@ body {
   font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.main-wrapper .frame-1000003443-iSD .group-190-nnm .contact-us-AoK {
+.main-wrapper .footer-area .group-190-nnm .contact-us-AoK {
   margin-bottom: 1rem;
   font-size: 1.4rem;
   font-weight: 500;
@@ -2337,7 +2337,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .frame-1000003443-iSD .group-190-nnm .chat-with-us-W6V {
+.main-wrapper .footer-area .group-190-nnm .chat-with-us-W6V {
   font-size: 1.4rem;
   font-weight: 500;
   line-height: 1.5714285714;
