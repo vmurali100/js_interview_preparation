@@ -39,14 +39,14 @@ body {
   background-color: rgba(0, 0, 0, 0.6000000238);
   flex-shrink: 0;
 }
-.main-wrapper .welcome-area .auto-group-gajm-1BX {
+.main-wrapper .welcome-area .header {
   margin-bottom: 4.4174rem;
   width: 100%;
   display: flex;
   align-items: center;
   flex-shrink: 0;
 }
-.main-wrapper .welcome-area .auto-group-gajm-1BX .y-cars-logo-KT7 {
+.main-wrapper .welcome-area .header .y-cars-logo-KT7 {
   margin-right: 47.7008rem;
   width: 9.9992rem;
   height: 4.9826rem;
@@ -55,7 +55,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.main-wrapper .welcome-area .auto-group-gajm-1BX .home-S1w {
+.main-wrapper .welcome-area .header .home-S1w {
   margin: 0rem 4.6rem 0.883rem 0rem;
   text-align: right;
   font-size: 1.4rem;
@@ -66,7 +66,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .welcome-area .auto-group-gajm-1BX .about-us-hCm {
+.main-wrapper .welcome-area .header .about-us-hCm {
   margin: 0rem 5rem 0.883rem 0rem;
   font-size: 1.4rem;
   font-weight: 600;
@@ -76,7 +76,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .welcome-area .auto-group-gajm-1BX .services-A6M {
+.main-wrapper .welcome-area .header .services-A6M {
   margin: 0rem 4.8rem 0.883rem 0rem;
   font-size: 1.4rem;
   font-weight: 600;
@@ -86,7 +86,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .welcome-area .auto-group-gajm-1BX .icars-choices-KtM {
+.main-wrapper .welcome-area .header .icars-choices-KtM {
   margin: 0rem 3.9rem 0.883rem 0rem;
   font-size: 1.4rem;
   font-weight: 600;
@@ -96,7 +96,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .welcome-area .auto-group-gajm-1BX .gallery-F1K {
+.main-wrapper .welcome-area .header .gallery-F1K {
   margin: 0rem 4.7rem 0.883rem 0rem;
   font-size: 1.4rem;
   font-weight: 600;
@@ -106,7 +106,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.main-wrapper .welcome-area .auto-group-gajm-1BX .contact-us-yT7 {
+.main-wrapper .welcome-area .header .contact-us-yT7 {
   margin-bottom: 0.8826rem;
   font-size: 1.4rem;
   font-weight: 600;
