@@ -1,0 +1,206 @@
+
+.card {
+  padding: 10px 20px;
+}
+.card-body {
+  font-weight: bold;
+  border-left: 5px solid #191970;
+  font-size: 24px;
+}
+.button-container {
+  display: flex;
+  gap: 25px;
+  margin: 25px;
+}
+
+.custom-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  background: darkgray;
+  cursor: pointer;
+  min-width: 150px;
+}
+.active {
+  background-color: #001f3f; /* Marine Blue */
+}
+.legend-container {
+  position: relative;
+  padding: 10px;
+  border: 1px solid #000;
+  width: 300px;
+  border-radius: 15px;
+}
+.content-details {
+  padding: 30px;
+  min-height: 300px;
+}
+
+.top-text {
+  position: absolute;
+  top: -15px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #fff;
+  padding: 0 15px; /* Add some padding to the left and right */
+  text-align: center;
+  width: 220px;
+}
+
+.top-text {
+  font-size: 18px;
+  color: #000;
+}
+select {
+  border: none;
+}
+.parent {
+  display: flex;
+  margin-top: 20px;
+}
+
+.child {
+  margin: 5px 5px 5px 0; /* Just for visualization */
+}
+
+.first {
+  flex: 1;
+  /* 50% width */
+}
+
+.second {
+  flex: 0 0 30%;
+  /* 30% width */
+}
+
+.third {
+  flex: 0 0 20%;
+  /* 20% width */
+}
+
+input {
+  width: 90%;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+.first input {
+  border-radius: 15px;
+  /* 10% border radius */
+}
+
+.second input {
+  border-radius: 5px;
+  background: lightcyan;
+  /* 5% border radius */
+}
+.second .input-container {
+  position: relative;
+}
+
+.third button {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 0;
+  background: lightcyan;
+  color: darkgray;
+  cursor: pointer;
+}
+.close-button {
+  position: absolute;
+  right: 12px;
+  top: 0;
+  bottom: 0;
+  background-color: #ff0000;
+  color: darkgray;
+  border: none;
+  padding: 10px;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  height: 82%;
+  font-size: 18px;
+  background: lightcyan;
+  border: 1px solid #ccc;
+}
+.records {
+  text-align: right;
+}
+.custom-table {
+  border: none;
+  margin-top: 20px;
+}
+.custom-table th,
+.custom-table td {
+  border: none;
+  padding: 5px;
+  padding-left: 10px;
+  text-align: center;
+  margin: 5px;
+  text-align: left;
+}
+.custom-table th {
+  position: relative;
+  cursor: pointer;
+  border-right: 1px solid #dee2e6;
+}
+.custom-table td{
+  padding: 10px;
+  
+}
+
+.custom-table th:not(:first-child)::after {
+  content: " ▼"; /* Unicode character for a downward-pointing triangle */
+  position: absolute;
+  right: 15px; /* Increase the gap between icon and border */
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.custom-table th.asc::after {
+  content: " ▲"; /* Unicode character for an upward-pointing triangle */
+}
+
+.custom-table th:last-child::after {
+  content: none; /* Remove triangle icon for the last column */
+}
+.custom-table th:last-child{
+  border: none; /* Remove triangle icon for the last column */
+}
+.screen2{
+    margin-bottom: 0;
+}
+.screen2 .custom-button{
+    border-bottom-right-radius: inherit;
+    border-bottom-left-radius: inherit;
+    padding-bottom: 2px;
+}
+a{
+    color: white;
+    text-decoration: none;  
+}
+.create-storage .row1,.row2,.row3{
+    display: flex;
+    gap: 60px;
+    margin-top: 20px;
+}
+.row2{
+    margin-top: 40px;
+}
+.row3{
+    margin-top: 40px;
+}
+.storageName{
+    width: 660px;
+}
+.accountTier{
+    width: 1020px;
+    margin-bottom: 30px;
+}
+.footer{
+    justify-content: end;
+}
